@@ -6,5 +6,5 @@
 
 ## Surveys
 ### Locomotion and Manipulation
-- ** Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**
+- Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
 [[Paper]](https://arxiv.org/pdf/2501.02116) 
